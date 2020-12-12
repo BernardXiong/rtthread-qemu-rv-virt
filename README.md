@@ -1,2 +1,3 @@
 # rtthread-qemu-rv-virt
-RT-Thread RV64 virt BSP for QEMU
+
+A basic BSP of RT-Thread for QEMU/RV64 virt
